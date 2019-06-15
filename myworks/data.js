@@ -20,7 +20,7 @@ var myData = {
             "h": 900
         },
         {
-             "src": "myworks/001.png",
+             "src": "myworks/banner 6.png",
             "w": 1440,
             "h": 900
         }
