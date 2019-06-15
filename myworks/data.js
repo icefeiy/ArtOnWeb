@@ -2,7 +2,7 @@
  * 瀑布流简历的数据对象类, 此类为简历数据库, 储存作品数据和设计者个人资料。
  * 本文件由配置程序自动生成, 请不要自行修改.
  * MIT License
- * by bingxueling | UIDesignScience
+ * by yangfei | UIDesignScience
 */
 
 
