@@ -21,8 +21,8 @@ var myData = {
         },
         {
              "src": "myworks/banner 6.png",
-            "w": 1440,
-            "h": 900
+            "w": 1920,
+            "h": 600
         }
         
   ]
