@@ -9,7 +9,7 @@
 var myData = {
     "designer": {
         "name": "杨菲",
-        "phone": "159-2017-5830",
+        "phone": "159 2017 5830",
         "tag": ["爱生活，爱设计，专注UI/UE"],
         "bg": "#0e299c"
     },
